@@ -11,7 +11,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://i.imgur.com/XtcNh5K.jpeg);
+  --theme-background-image: url(https://www.dexerto.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://editors.dexerto.com/wp-content/uploads/2023/07/08/Kafka-Honkai-Star-Rail-guide.jpg);
 
   /*
     Main Theme Color
@@ -21,7 +21,7 @@
   /*
     Main Theme Transparency
   */
-  --theme-transparency: rgba(0, 0, 0, 0.85);
+  --theme-transparency: rgba(0, 0, 0, 0.9);
 
   /*
     Home Icon Image
@@ -56,13 +56,13 @@
     Mention colors
   */
   --mention-color: rgba(250, 166, 26, 0.05);
-  --mention-sider: rgba(250, 166, 26, 1);
+  --mention-sider: rgb(235, 134, 198);
   --mention-hover-color: rgba(250, 166, 26, 0.08);
 
   /*
     Server category hover color
   */
-  --category-hover-color: rgb(60, 202, 138);
+  --category-hover-color: rgb(235, 134, 198);
 
   /*
     Change the unread server animation.
@@ -127,7 +127,7 @@
     Add Server / Discovery Icon
   */
   --add-discover-icon-transparency: rgba(200, 200, 200, 0.15);
-  --add-discover-icon-color: #43b581;
+  --add-discover-icon-color: rgb(235, 134, 198) ;
 
   /*
     Channel Limit Number Color
@@ -144,19 +144,19 @@
   /*
     Unread Message Divider
   */
-  --unread-message-divider-color: #f04747;
+  --unread-message-divider-color: rgb(235, 134, 198);
   --unread-message-divider-font-color: #fff;
 
   /*
     New Messages Bar Color
   */
-  --new-messages-bar-background-color: #7289da;
+  --new-messages-bar-background-color: rgb(235, 134, 198, 1);
   --new-messages-bar-font-color: #fff;
 
   /*
     Emoji Menu
   */
-  --emoji-menu-background-color: rgba(0, 0, 0, 0.6);
+  --emoji-menu-background-color: rgba(0, 0, 0, 0.9);
   --emoji-menu-sider-background-color: rgba(0, 0, 0, 0);
   --emoji-menu-server-header-background-color: rgba(0, 0, 0, 0.8);
   --emoji-menu-bottom-bar-background-color: black;
